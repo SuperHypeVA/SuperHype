@@ -1,0 +1,2 @@
+# SuperHype
+Freelancing virtula assistant
